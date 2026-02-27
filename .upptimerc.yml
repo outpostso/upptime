@@ -9,6 +9,8 @@ sites:
     url: https://app.emptychair.io
   - name: EmptyChair Marketing
     url: https://emptychair.io
+  - name: AfterParty Marketing
+    url: https://afterparty.chat
 
 status-website:
   cname: status.helloallan.com
