@@ -11,7 +11,8 @@ sites:
     url: https://emptychair.io
   - name: AfterParty Marketing
     url: https://afterparty.chat
-
+  - name: AllRoads Dev
+    url: https://allroads.dev
 status-website:
   cname: status.helloallan.com
   name: Allan Status
