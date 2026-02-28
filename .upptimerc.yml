@@ -17,6 +17,8 @@ sites:
     url: https://app.trygrit.ai
   - name: AllRoads Dev
     url: https://allroads.dev
+  - name: AllRoads To
+    url: https://allroads.to
 status-website:
   cname: status.helloallan.com
   name: Allan Status
