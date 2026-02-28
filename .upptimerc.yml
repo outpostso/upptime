@@ -6,7 +6,9 @@ sites:
   - name: HelloAllan
     url: https://www.helloallan.com
   - name: EmptyChair App
-    url: https://app.emptychair.app
+    url: https://web.emptychair.app
+  - name: EmptyChair Api
+    url: https://api.emptychair.app/healthz
   - name: EmptyChair Marketing
     url: https://emptychair.app
   - name: AfterParty Marketing
