@@ -6,9 +6,9 @@ sites:
   - name: HelloAllan
     url: https://www.helloallan.com
   - name: EmptyChair App
-    url: https://app.emptychair.io
+    url: https://app.emptychair.app
   - name: EmptyChair Marketing
-    url: https://emptychair.io
+    url: https://emptychair.app
   - name: AfterParty Marketing
     url: https://afterparty.chat
   - name: Grit
@@ -18,7 +18,7 @@ sites:
   - name: AllRoads Dev
     url: https://allroads.dev
   - name: AllRoads To
-    url: https://allroads.to
+    url: https://app.allroads.to
 status-website:
   cname: status.helloallan.com
   name: Allan Status
