@@ -2,6 +2,8 @@
 owner: helloallan # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+runner: grit-2vcpu-ubuntu-2404
+
 sites:
   - name: HelloAllan
     url: https://www.helloallan.com
